@@ -15,6 +15,8 @@ As a student, it is my job to be curious, and to learn as much as possible about
 Being in any opportunity to learn, apply, and concretise is when I shine.
 
 Please do check out my public repositories 😄
+
+I currently use Unity, Unreal Engine, the Adobe Suite, Shadertoy, and Visual Studio.
 <!--
 **worm-jar/worm-jar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
