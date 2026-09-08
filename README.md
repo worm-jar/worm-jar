@@ -2,7 +2,7 @@
 
 I'm Anthony (a.k.a worm jar), half Thai half French, based in Montpellier, France.
 
-I use code and mathematics to create and animate art.
+# I use code and mathematics to create and animate art.
 
 I am always ready to learn about new ways to combine the worlds of Tech and Art; 
 This includes Shaders (GLSL), VFX, Gameplay programming, Procedural/Parametric textures, and much more!
@@ -16,7 +16,12 @@ Being in any opportunity to learn, apply, and concretise is when I shine.
 
 Please do check out my public repositories 😄
 
-I currently use Unity, Unreal Engine, the Adobe Suite, Shadertoy, and Visual Studio.
+I currently use:
+- > Unity
+- > Unreal Engine
+- > the Adobe Suite
+- > Shadertoy
+- > Visual Studio
 <!--
 **worm-jar/worm-jar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
