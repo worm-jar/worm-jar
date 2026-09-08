@@ -2,7 +2,7 @@
 
 I'm Anthony (a.k.a worm jar), half Thai half French, based in Montpellier, France.
 
-# I use code and mathematics to create and animate art.
+### I use code and mathematics to create and animate art.
 
 I am always ready to learn about new ways to combine the worlds of Tech and Art; 
 This includes Shaders (GLSL), VFX, Gameplay programming, Procedural/Parametric textures, and much more!
